@@ -1,0 +1,9 @@
+# Standard Libraries (no installation needed)
+# sys
+# os
+# random
+# time
+
+# Third-Party Libraries (install with pip)
+numpy
+pygame
